@@ -107,9 +107,6 @@ r ~ Esponenziale(R_medio),   φ ~ Uniforme(0, 2π)
 E_mu ~ E^(-2.7) troncata tra s e l'energia ancora disponibile
 ```
 
-> **TODO:** indicare qui la fonte (libro, articolo o dispense) da cui provengono
-> le formule e i coefficienti di `<N_mu>` e `R_medio`. In questo repository
-> non sono stati ricalibrati né validati.
 
 ## Limiti del modello
 
@@ -133,8 +130,7 @@ python -m pytest
 
 ## Origine del progetto
 
-> **TODO:** completare, ad esempio: «Sviluppato a partire dalle specifiche
-> del corso di *[nome corso]*, *[università]*, a.a. *[anno]*.»
+«Sviluppato a partire dalle specifiche del corso di *Metodo MonteCarlo*, *Università Roma Tre*, a.a. *2025-26*.»
 
 ## Licenza
 
